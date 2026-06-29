@@ -1,0 +1,3 @@
+[robot.devices.forward-tis-dfm27up.3a]
+auto-gain-max = 30
+auto-gain-min = 4
